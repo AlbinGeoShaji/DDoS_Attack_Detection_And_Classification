@@ -14,3 +14,7 @@ comparing the speed and accuracy of the site or servers. By applying the machine
 models we can generate a confusion matrix for identification of the model performance. Here
 we implement prediction and classification of DDoS attacks using RNN and Decision Tree
 algorithm.
+
+By,
+Albin Geo Shaji
+AGS
